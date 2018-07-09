@@ -24,10 +24,6 @@
 
 /* Posititoning Classes */
 
-#wrap {
-  background: blue;
-}
-
 .featured {
   float: left;
   width: 63%;
