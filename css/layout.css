@@ -24,6 +24,10 @@
 
 /* Posititoning Classes */
 
+#wrap {
+  background: green;
+}
+
 .featured {
   float: left;
   width: 63%;
@@ -38,6 +42,3 @@
   margin: 2% 0% 2% 2%;
 }
 
-#wrap {
-  background: green;
-}
