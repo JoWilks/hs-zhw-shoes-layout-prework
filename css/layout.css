@@ -31,7 +31,7 @@
 }
 
 .archived {
-  float: right;
+  float: LEFT;
   width: 31%;
   margin: 2% 0% 2% 0%;
 }
