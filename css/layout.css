@@ -27,6 +27,7 @@
 .featured {
   float: left;
   width: 60%;
+  margin: 4%;
 }
 
 .archived {
