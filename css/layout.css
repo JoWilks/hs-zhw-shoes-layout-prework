@@ -25,7 +25,9 @@
 /* Posititoning Classes */
 
 #featured {
-  
+    float: left;
+  width: 32%;
+  background: #ccc;
 }
 
 #archive {
