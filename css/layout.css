@@ -27,6 +27,7 @@
 .featured {
   float: left;
   width: 60%;
+  padding: 2%;
   margin: 2%;
 }
 
