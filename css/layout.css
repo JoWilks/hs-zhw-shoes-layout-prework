@@ -24,12 +24,12 @@
 
 /* Posititoning Classes */
 
-#featured {
+.featured {
   float: left;
   width: 6a0%;
 }
 
-#archived {
+.archived {
   float: left;
   width: 30%;
 }
